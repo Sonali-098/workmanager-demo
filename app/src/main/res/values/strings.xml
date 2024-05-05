@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Work Manager Demo</string>
+    <string name="one_time_worker">One Time Worker</string>
+    <string name="periodic_worker">Periodic Worker</string>
+</resources>
